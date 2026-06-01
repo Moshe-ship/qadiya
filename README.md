@@ -6,7 +6,7 @@
 [![PyPI](https://img.shields.io/pypi/v/qadiya)](https://pypi.org/project/qadiya/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-green.svg)](https://python.org)
-[![Tests: 15 passing](https://img.shields.io/badge/tests-15%20passing-green.svg)]()
+[![CI](https://github.com/Moshe-ship/qadiya/actions/workflows/ci.yml/badge.svg)](https://github.com/Moshe-ship/qadiya/actions/workflows/ci.yml)
 
 The third + fourth primitives of the reversible-agent-operations pattern: **case classification** under a constraint set, and **dispatch** to registered procedures.
 
